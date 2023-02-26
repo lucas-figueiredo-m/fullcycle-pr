@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lucas-figueiredo-m/fullcycle-pr/issues"
   },
-  "homepage": "https://github.com/lucas-figueiredo-m/fullcycle-pr#readme"
+  "homepage": "https://github.com/lucas-figueiredo-m/fullcycle-pr#readme",
+  "devDependencies": {
+    "husky": "^8.0.3"
+  }
 }
